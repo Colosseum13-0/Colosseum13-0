@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Colosseum13-0/static/css/main.96e74c96.css",
-    "main.js": "/Colosseum13-0/static/js/main.d6471174.js",
+    "main.js": "/Colosseum13-0/static/js/main.390262d4.js",
     "static/css/616.b36b5900.chunk.css": "/Colosseum13-0/static/css/616.b36b5900.chunk.css",
     "static/js/616.edb3f15a.chunk.js": "/Colosseum13-0/static/js/616.edb3f15a.chunk.js",
     "static/css/925.9297c840.chunk.css": "/Colosseum13-0/static/css/925.9297c840.chunk.css",
@@ -11,7 +11,7 @@
     "static/media/ship.mp4": "/Colosseum13-0/static/media/ship.a0220509d3d8041aee73.mp4",
     "index.html": "/Colosseum13-0/index.html",
     "main.96e74c96.css.map": "/Colosseum13-0/static/css/main.96e74c96.css.map",
-    "main.d6471174.js.map": "/Colosseum13-0/static/js/main.d6471174.js.map",
+    "main.390262d4.js.map": "/Colosseum13-0/static/js/main.390262d4.js.map",
     "616.b36b5900.chunk.css.map": "/Colosseum13-0/static/css/616.b36b5900.chunk.css.map",
     "616.edb3f15a.chunk.js.map": "/Colosseum13-0/static/js/616.edb3f15a.chunk.js.map",
     "925.9297c840.chunk.css.map": "/Colosseum13-0/static/css/925.9297c840.chunk.css.map",
@@ -21,6 +21,6 @@
   },
   "entrypoints": [
     "static/css/main.96e74c96.css",
-    "static/js/main.d6471174.js"
+    "static/js/main.390262d4.js"
   ]
 }
