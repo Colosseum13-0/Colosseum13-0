@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.e70e7378.css",
-    "main.js": "/static/js/main.02c990d0.js",
-    "static/css/616.b36b5900.chunk.css": "/static/css/616.b36b5900.chunk.css",
-    "static/js/616.edb3f15a.chunk.js": "/static/js/616.edb3f15a.chunk.js",
-    "static/css/925.9297c840.chunk.css": "/static/css/925.9297c840.chunk.css",
-    "static/js/925.1dc0903f.chunk.js": "/static/js/925.1dc0903f.chunk.js",
-    "static/js/372.5b92d9c1.chunk.js": "/static/js/372.5b92d9c1.chunk.js",
-    "static/js/774.e26cb9e3.chunk.js": "/static/js/774.e26cb9e3.chunk.js",
-    "static/media/ship.mp4": "/static/media/ship.a0220509d3d8041aee73.mp4",
-    "index.html": "/index.html",
-    "main.e70e7378.css.map": "/static/css/main.e70e7378.css.map",
-    "main.02c990d0.js.map": "/static/js/main.02c990d0.js.map",
-    "616.b36b5900.chunk.css.map": "/static/css/616.b36b5900.chunk.css.map",
-    "616.edb3f15a.chunk.js.map": "/static/js/616.edb3f15a.chunk.js.map",
-    "925.9297c840.chunk.css.map": "/static/css/925.9297c840.chunk.css.map",
-    "925.1dc0903f.chunk.js.map": "/static/js/925.1dc0903f.chunk.js.map",
-    "372.5b92d9c1.chunk.js.map": "/static/js/372.5b92d9c1.chunk.js.map",
-    "774.e26cb9e3.chunk.js.map": "/static/js/774.e26cb9e3.chunk.js.map"
+    "main.css": "/www.colosseum13.tech/static/css/main.e70e7378.css",
+    "main.js": "/www.colosseum13.tech/static/js/main.2d0903db.js",
+    "static/css/616.b36b5900.chunk.css": "/www.colosseum13.tech/static/css/616.b36b5900.chunk.css",
+    "static/js/616.edb3f15a.chunk.js": "/www.colosseum13.tech/static/js/616.edb3f15a.chunk.js",
+    "static/css/925.9297c840.chunk.css": "/www.colosseum13.tech/static/css/925.9297c840.chunk.css",
+    "static/js/925.1dc0903f.chunk.js": "/www.colosseum13.tech/static/js/925.1dc0903f.chunk.js",
+    "static/js/372.5b92d9c1.chunk.js": "/www.colosseum13.tech/static/js/372.5b92d9c1.chunk.js",
+    "static/js/774.8fdd740b.chunk.js": "/www.colosseum13.tech/static/js/774.8fdd740b.chunk.js",
+    "static/media/ship.mp4": "/www.colosseum13.tech/static/media/ship.a0220509d3d8041aee73.mp4",
+    "index.html": "/www.colosseum13.tech/index.html",
+    "main.e70e7378.css.map": "/www.colosseum13.tech/static/css/main.e70e7378.css.map",
+    "main.2d0903db.js.map": "/www.colosseum13.tech/static/js/main.2d0903db.js.map",
+    "616.b36b5900.chunk.css.map": "/www.colosseum13.tech/static/css/616.b36b5900.chunk.css.map",
+    "616.edb3f15a.chunk.js.map": "/www.colosseum13.tech/static/js/616.edb3f15a.chunk.js.map",
+    "925.9297c840.chunk.css.map": "/www.colosseum13.tech/static/css/925.9297c840.chunk.css.map",
+    "925.1dc0903f.chunk.js.map": "/www.colosseum13.tech/static/js/925.1dc0903f.chunk.js.map",
+    "372.5b92d9c1.chunk.js.map": "/www.colosseum13.tech/static/js/372.5b92d9c1.chunk.js.map",
+    "774.8fdd740b.chunk.js.map": "/www.colosseum13.tech/static/js/774.8fdd740b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e70e7378.css",
-    "static/js/main.02c990d0.js"
+    "static/js/main.2d0903db.js"
   ]
 }
